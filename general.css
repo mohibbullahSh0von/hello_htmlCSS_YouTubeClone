@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", Arial, system-ui;
+}
+body{
+  margin-top: 57px;
+  margin-left: 72px;
+}
+footer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgb(96, 96, 96);
+}
+.author-name{
+  font-weight: bold;
+  color: black;
+}
+.heart{
+  color: red;
+}
